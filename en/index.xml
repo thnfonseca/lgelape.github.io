@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Gelape</title>
+    <link>/en/</link>
+      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas Gelape</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lucas Gelape</title>
+      <link>/en/</link>
+    </image>
+    
+    <item>
+      <title>Projects - Volt Data Lab</title>
+      <link>/en/blog/voltdatalab/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt;, I participated in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34;&gt;Science Pulse&lt;/a&gt;: online tool to connect journalists to scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;R Packages&lt;/a&gt;: two packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/blob/master/vignettes/Introduction_pollingBR.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360; and &lt;a href=&#34;https://github.com/sergiospagnuolo/crossfire/blob/master/Introduction_crossfire.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, that gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analysed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34;&gt;Pocket Casts&lt;/a&gt;. Data was collected in July and August, 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34;&gt;Terra de Resistentes&lt;/a&gt;: collaborative project which investigates threats to environmental leaders and their communities in seven countries on Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hidrography, mining and rural lands.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>São Paulo: subnational alignment and challenges from Covid-19 in the country`s largest city</title>
+      <link>/en/blog/sp_covid19/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/sp_covid19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34;&gt;How did the city of São Paulo responded to the first weeks&amp;rsquo; challenges of the new coronavirus pandemic?&lt;/a&gt;.
+In this blog post, I described the first measures taken by mayor Bruno Covas (PSDB) and his relationship with governor João Doria (PSDB). I also discussed the main health, social care and urban transportation policies during this period. To conclude, I pointed out some of the challenges the city was poised to face: how to maintain isolation policies, reach vulnerable populations, increase testing and hospital capacities and planning the economy reopening.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34;&gt;This post was published on April 7th, 2020, in Portuguese (original title &amp;ldquo;São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país&amp;rdquo;)&lt;/a&gt; in the blog series &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Municipal governments facing the coronavirus&amp;rdquo;&lt;/a&gt; from the Study Group on Local Politics (NEPOL), Federal University of Juiz de Fora.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unlike other world leaders, Bolsonaro`s evaluation does not change during the pandemic</title>
+      <link>/en/blog/bolsonaro_aprovacao/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/bolsonaro_aprovacao/</guid>
+      <description>&lt;p&gt;How did Jair Bolsonaro&amp;rsquo;s evaluation was compared to other world leaders on the first weeks of the new coronavirus pandemic? &lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34;&gt;By comparing surveys about the Brazilian president approval rating with others from seven world leaders&lt;/a&gt;, I found that, unlike the others, Bolsonaro was the only who did not get a bump on his approval ratings in the period. I analyzed the result from the perspective of the &lt;em&gt;rally-round-the-flag-effect&lt;/em&gt; which can explain political leaders&amp;rsquo; sudden increase in approval during hard times.&lt;/p&gt;
+
+&lt;p&gt;Analysis published in portuguese on &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;., on April 1st, 2020. Original title: &lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit#gid=0&#34; target=&#34;_blank&#34;&gt;Data&lt;/a&gt; and &lt;a href=&#34;https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; are available on the hyperlinks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News stories on G1</title>
+      <link>/en/blog/materias_g1/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/en/blog/materias_g1/</guid>
+      <description>&lt;p&gt;From July to November, 2018, I worked on the news website &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34;&gt;G1&lt;/a&gt;, when I wrote stories on politics, especially about the Brazilian general elections. In this post, I gather the links for all the stories I produced (or co-produced). Most of them were published in the &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Election in Numbers&amp;rdquo; (&lt;em&gt;Eleição em Números&lt;/em&gt;)&lt;/a&gt; section, and were about many topics, including campaign and party finance, female candidates quotas, reelection, polls, candidate and electorate profile and electoral results.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34;&gt;In &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the cities, parties have not declared the 2017 expenses&lt;/a&gt;. Original: Em &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; das cidades do país, partidos não declaram despesas de 2017. 29 jul. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34;&gt;Polling place results show &amp;ldquo;straight ballot&amp;rdquo; votes in most runoff elections&lt;/a&gt;. Original: Resultados da votações por urna mostram dobradinha na maioria dos estados no 2º turno. 07 nov. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/16/quase-3-em-cada-4-deputados-estaduais-e-federais-da-ultima-legislatura-buscam-novo-mandato.ghtml&#34; target=&#34;_blank&#34;&gt;Almost 3 in 4 state and federal deputies are running for reelection&lt;/a&gt;. Original: Quase 3 em cada 4 deputados estaduais e federais da última legislatura buscam novo mandato. 16 set. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/24/mesmo-com-lei-proporcao-de-mulheres-nao-aumenta-nas-eleicoes-e-justica-precisa-notificar-coligacoes-para-que-cumpram-cota.ghtml&#34; target=&#34;_blank&#34;&gt;Even with new law, proportion of women does not increase in Election and the Court needs to notify parties to fulfill gender quotas.&lt;/a&gt;. Original: Mesmo com lei, proporção de mulheres não aumenta nas eleições e Justiça precisa notificar coligações para que cumpram cota. 24 ago. 2018 (with Clara Velasco, Gabriela Sarmento and Lucas Vidigal)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34;&gt;Number of police and military officers elected for legislative position is four times larger than in 2014&lt;/a&gt;. Original: Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014. 08 out. 2018. (with Gabriela Caesar and Ana Carolina Moreno)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/31/mais-de-300-cidades-do-pais-tem-mais-eleitores-que-habitantes.ghtml&#34; target=&#34;_blank&#34;&gt;Over 300 cities in the country have more registered voters than inhabitants&lt;/a&gt;. Original: Mais de 300 cidades do país têm mais eleitores que habitantes. 31 ago. 2018. (with Clara Velasco)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/10/gastos-de-campanha-no-1o-turno-das-eleicoes-caem-pela-metade-em-comparacao-a-2014.ghtml&#34; target=&#34;_blank&#34;&gt;Campaing expenses on the first round of elections dropped from half the amount of 2014&lt;/a&gt;. Original: Gastos de campanha no 1º turno das eleições caem pela metade em comparação a 2014. 10 nov. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/02/cidades-de-mg-quase-repetem-resultado-da-eleicao-para-presidente-em-ambos-os-turnos.ghtml&#34; target=&#34;_blank&#34;&gt;Cities from MG almost repeat the national share of votes in both rounds of the 2018 elections&lt;/a&gt;. Original: Cidades de MG quase repetem resultado da eleição para presidente em ambos os turnos. 02 nov. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/haddad-vira-em-1-estado-e-em-116-cidades-bolsonaro-fatura-25-municipios-vencidos-pelo-pt-no-1o-turno.ghtml&#34; target=&#34;_blank&#34;&gt;Haddad registers comebacks in 1 state and 117 cities; Bolsonaro wins in 25 cities where the PT had a majority of votes in the first round&lt;/a&gt;. Original: Haddad vira em 1 estado e 117 cidades; Bolsonaro fatura 25 municípios vencidos pelo PT no 1º turno. 29 out. 2018. (with Clara Velasco)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/20-governadores-tentaram-reeleicao-em-2018-10-conseguiram.ghtml&#34; target=&#34;_blank&#34;&gt;20 governors attempted reelection in 2018. Only 10 were successful.&lt;/a&gt;. Original: 20 governadores tentaram a reeleição em 2018; 10 conseguiram. 29 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/19/metade-dos-deputados-estaduais-e-distritais-eleitos-em-2014-conquista-novo-mandato-em-2018.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Metade dos deputados estaduais e distritais eleitos em 2014 conquista novo mandato em 2018&lt;/a&gt;. Original: Metade dos deputados estaduais e distritais eleitos em 2014 conquista novo mandato em 2018. 19 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/diferenca-entre-candidatos-na-1a-pesquisa-de-2o-turno-e-a-maior-desde-2002-segundo-datafolha.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Diferença entre candidatos na 1ª pesquisa de segundo turno é a maior desde 2002, segundo Datafolha&lt;/a&gt;. Original: Diferença entre candidatos na 1ª pesquisa de segundo turno é a maior desde 2002, segundo Datafolha. 11 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/cai-o-numero-de-deputados-eleitos-que-usam-titulo-religioso-no-nome-de-urna-ou-se-declaram-como-membro-de-ordem-religiosa.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Cai o número de deputados eleitos que usam título religioso no nome de urna ou se declaram como membro de ordem religiosa&lt;/a&gt;. Original: Cai o número de deputados eleitos que usam título religioso no nome de urna ou se declaram como membro de ordem religiosa 11 out. 2018. (with Thiago Lavado)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/09/apenas-4-dos-candidatos-eleitos-para-cargos-de-senador-e-deputado-estadual-e-federal-sao-pretos.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Apenas 4% dos candidatos eleitos para cargo de senador e deputado estadual e federal são pretos&lt;/a&gt;. Original: Apenas 4% dos candidatos eleitos para cargo de senador e deputado estadual e federal são pretos. 09 out. 2018. (with Carolina Dantas)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/menos-da-metade-dos-deputados-federais-eleitos-em-2014-consegue-se-reeleger-nestas-eleicoes.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Menos da metade dos deputados federais eleitos em 2014 consegue se reeleger nestas eleições&lt;/a&gt;. Original: Menos da metade dos deputados federais eleitos em 2014 consegue se reeleger nestas eleições. 08 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/02/percentual-de-mulheres-que-nao-escolheram-um-presidenciavel-a-10-dias-das-eleicoes-e-o-maior-desde-1998-segundo-datafolha.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Percentual de mulheres que não escolheram um presidenciável a 10 dias das eleições é o maior desde 1998, segundo Datafolha&lt;/a&gt;. Original: Percentual de mulheres que não escolheram um presidenciável a 10 dias das eleições é o maior desde 1998, segundo Datafolha. 02 out. 2018. (with Rafael Miotto)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/30/primeira-parcial-indica-queda-de-36-nos-gastos-de-campanha-em-2018.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Primeira parcial indica queda de 36% nos gastos de campanha em 2018&lt;/a&gt;. Original: Primeira parcial indica queda de 36% nos gastos de campanha em 2018. 30 set. 2018. (with Cauê Muraro and Leandro Oliveira)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/11/saude-e-violencia-sao-os-principais-problemas-para-os-eleitores-brasileiros-segundo-datafolha.ghtml&#34; target=&#34;_blank&#34;&gt;Health and violence are the two main problems to brazilian voters, according to Datafolha poll&lt;/a&gt;. Original: Saúde e violência são os principais problemas para os eleitores brasileiros, segundo Datafolha. 11 set. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/27/pesquisas-ibope-rj-e-am-tem-mais-eleitores-que-se-dizem-insatisfeitos-ou-muito-insatisfeitos-com-a-vida-atual.ghtml&#34; target=&#34;_blank&#34;&gt;Ibope polls: RJ and AM have the most voters who says they are unsatisfied or very unsatisfied with their current life.&lt;/a&gt;. Original: Pesquisas Ibope: RJ e AM têm mais eleitores que se dizem &amp;lsquo;insatisfeitos&amp;rsquo; ou &amp;lsquo;muito insatisfeitos&amp;rsquo; com a vida atual. 27 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/27/pesquisas-ibope-lula-atinge-pelo-menos-50-em-todos-os-estados-do-nordeste-e-bolsonaro-e-mais-forte-em-rr-ac-e-df.ghtml&#34; target=&#34;_blank&#34;&gt;Ibope polls: Lula reaches at least 50% in all Northeastern states and Bolsonaro is the strongest in RR, AC and DF.&lt;/a&gt;. Original: Pesquisas Ibope: Lula atinge pelo menos 50% em todos os estados do Nordeste e Bolsonaro é mais forte em RR, AC e DF. 27 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/26/saude-e-o-problema-mais-citado-pelos-eleitores-nos-estados-do-pais-apontam-pesquisas-ibope.ghtml&#34; target=&#34;_blank&#34;&gt;Health is the problem most cited by voters over the country, according to Ibope polls.&lt;/a&gt;. Original: Saúde é o problema mais citado pelos eleitores nos estados do país, apontam pesquisas Ibope. 26 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/20/mais-de-500-candidatos-usam-titulos-religiosos-no-nome-de-urna.ghtml&#34; target=&#34;_blank&#34;&gt;Over 500 candidates use religious titles in their polling registries.&lt;/a&gt;. Original: Mais de 500 candidatos usam títulos religiosos no nome de urna. 20 ago. 2018. (with Rafaela Putini)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/17/aumentam-pedidos-de-candidaturas-de-policiais-e-militares-ativos-e-inativos.ghtml&#34; target=&#34;_blank&#34;&gt;Higher numbers of candidate registries from current and retired military were found in 2018&lt;/a&gt;. Original: Aumentam pedidos de candidaturas de militares ativos e inativos. 17 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/15/proporcao-de-eleitores-com-voto-facultativo-nas-eleicoes-e-a-mais-baixa-das-ultimas-eleicoes.ghtml&#34; target=&#34;_blank&#34;&gt;Proportion of voters that are not required to vote is the lowest in the last election.&lt;/a&gt;. Original: Proporção de eleitores com voto facultativo é a mais baixa das últimas eleições. 15 ago. 2018. (com Clara Velasco e Leandro Oliveira)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/en/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/en/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Territorial Representation and Marielle Franco</title>
+      <link>/en/blog/marielle_franco/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/en/blog/marielle_franco/</guid>
+      <description>&lt;p&gt;In March 2018, after a news website published a short note Marielle Franco&amp;rsquo;s number of votes at the Maré neighborhood, I published an analysis on &lt;em&gt;Medium&lt;/em&gt; called &lt;a href=&#34;https://medium.com/@lgelape/representa%C3%A7%C3%A3o-territorial-e-marielle-franco-b1884061bf1c&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Territorial Representation and Marielle Franco&lt;/em&gt;&lt;/a&gt; (in portuguese), which showed how her votes were distributed across the city of Rio de Janeiro que investigava a distribuição dos votos dela na cidade do Rio de Janeiro.&lt;/p&gt;
+
+&lt;p&gt;In the text I discuss some precautions and data issues for spatial analysis of Brazilian election, and I also present some ideas on &amp;ldquo;territorial representation&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Code used in the analysis is available &lt;a href=&#34;https://github.com/lgelape/texto_mariellefranco&#34; target=&#34;_blank&#34;&gt;in a repo on my GitHub profile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo</title>
+      <link>/en/publication/dissertacao/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/dissertacao/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GELAPE, Lucas. &lt;strong&gt;A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo&lt;/strong&gt;. Dissertação de Mestrado – Universidade Federal de Minas Gerais, Belo Horizonte, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Esta dissertação investiga a distribuição espacial dos votos dos vereadores eleitos nos municípios de São Paulo, Rio de Janeiro e Belo Horizonte, nas eleições de 2008 e 2012. Seu objetivo principal é identificar padrões de votações desses políticos, apresentando umadiscussão acerca dos principais meios apontados pela literatura para tal caracterização. Assim, o trabalho oferece contribuições a três correntes de estudos da ciência política: (1) geografia eleitoral; (2) funcionamento do sistema eleitoral de lista aberta; e (3) política em nívelmunicipal. Inicialmente, realiza-se uma revisão dos principais estudos concernentes à dissertação, assentando as bases teóricas do trabalho. Em seguida, apresenta-se o desenho da pesquisa, ressaltando-se que a estratégia adotada para a identificação de padrões de votação éa classificação dos vereadores segundo a tipologia proposta por Barry Ames, que consiste em classificar os candidatos em quatro tipos, de acordo com duas dimensões (horizontal e vertical) da distribuição espacial dos votos: (1) concentrados-dominantes; (2) concentradoscompartilhados; (3) dispersos-compartilhados; e (4) dispersos-dominantes. São discutidos ainda os índices utilizados pela literatura para a classificação dos candidatos nos tipos indicados. Por fim, são relatados os resultados empíricos encontrados na pesquisa,destacando-se a escolha feita pelo autor acerca de quais índices e modos de classificação parecem ser os mais adequados para a mensuração de cada dimensão nos casos estudados. Osresultados encontrados indicam uma estabilidade do número de vereadores de cada tipo, em um mesmo município, entre os dois pleitos analisados; e ainda uma predominância do tipo disperso-compartilhado em todos os municípios e eleições analisadas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo?</title>
+      <link>/en/publication/almg/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/almg/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;SOARES, Fabiana de Menezes; GELAPE, Lucas. Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo? In: SANTOS, Manoel Leonardo; ANASTASIA, Fátima (org.). &lt;strong&gt;Política e Desenvolvimento Institucional no Legislativo de Minas Gerais&lt;/strong&gt;. Belo Horizonte: Editora PUC Minas, 2016. p. 381–413.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discurso dos oradores da turma de formandos do 2º semestre de 2014 do curso de graduação em DIreito da Faculdade de Direito da UFMG</title>
+      <link>/en/publication/discurso/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/discurso/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GELAPE, Lucas; VIANA, Amanda Cristina. Discurso dos oradores da turma de formandos do 2o semestre de 2014 do curso de graduação em Direito da Faculdade de Direito da UFMG. &lt;strong&gt;Revista da Faculdade de Direito da Universidade Federal de Minas Gerais&lt;/strong&gt;, n. 66, jun. 2015.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Discurso proferido pelos oradores da turma de formandos do 2º semestre de 2014 do curso de graduação em Direito da Faculdade de Direito da UFMG, em sessão de colação de grau, realizada em 14/01/2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção</title>
+      <link>/en/publication/anacronismo_lista_aberta/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/anacronismo_lista_aberta/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;PEREIRA, Rodolfo Viana; GELAPE, Lucas. Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção. &lt;strong&gt;Revista de Informação Legislativa&lt;/strong&gt;, Brasília, v. 52, n. 205, p. 261–279, mar. 2015.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Sumário:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introdução. 2. O sistema eleitoral de lista aberta no Brasil. 2.1. Características gerais e funcionamento da lista aberta brasileira. 2.2. Críticas ao sistema eleitoral brasileiro de representação proporcional. 3. A introdução da lista aberta no Brasil. 3.1. O Código Eleitoral de 1932. 3.2. A experiência eleitoral com o Código de 1932 e a reforma da legislação. 4. Críticas à base de justificação e manutenção do sistema eleitoral de lista aberta no Brasil. 5. Considerações finais&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Art to Politics: challenging representation</title>
+      <link>/en/publication/art_politics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/art_politics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GELAPE, Lucas; FEITAL, Thiago Álvares. From Art to Politics: challenging representation. &lt;strong&gt;Human Rights, Rule of Law and the Contemporary Social Challenges in Complex Societies: Proceedings of the XXVI World Congress of Philosophy of Law and Social Philosophy&lt;/strong&gt;. Belo Horizonte: Initia Via, 2015. p. 2211–2232.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The 20th-century witnessed two convergent movements. The first assumed the form of an aestheticization of the politics and the second of a politicization of the art. Paradoxically, still nowadays the common sense propagates a romantic vision of the artwork, in which art assumes the character of an instance in between the transcendental and the humane. Isolated from the world, the artist, herald of the sublime, would see its works advance according to the inspiration and endowment, notions so naïve as dangerous. Separated from the art by a deep and seemingly unfathomable cleavage, and bound to the materiality of the world, it is found the field of politics. Looking back to the tension which delineated the Modernism throughout its history (during the period of the 1930s to the 1980s, approximately), it is found and increasingly close relation between State and Art first, and big companies and art institutions later. The relevance of the problems offered by the Modernism derives partially from the manner that they were placed. Definitely, the 20th-century art went beyond the geometric space of the art galleries, and its inevitable result ricocheted on the politics of representation, and the political representation. Whether through the reorganization of artworks in a permanent exhibition room, or the recapture of issues related to minority rights, or the search for new ways to exercise political participation, the task of what has been conventionally called postmodern leaves a challenge for law, arts and politics. In the field of politics, from Nadia Urbinati’s three perspectives on Representative Democracy, the political representation faces challenges similar to those faced by post-modernism. After the collapse of juridical and institutional perspectives, the representation, this “operative term within a political process that seeks to extend visibility […] [to] political subjects […]”, in the words of Judith Butler, is questioned under the sieve of the deconstruction of the subject; the constant tension between emancipation and regulation, proposed by Boaventura de Sousa Santos, sets thetone of the contemporary law, crossed by organized movements with different ideologies, that fight (or bargain) their rights in the stage of civil society. The questions which Modernism proposed itself on the 20th-century are still without answers. Those are the political questions that the 21st-century is trying to respond. Between arts and politics, where is the emplacement of representation in the contemporary world?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/publication/anpocs41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/publication/anpocs41/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GELAPE, Lucas. Geografia eleitoral e estratégia partidária nas eleições para vereador sob o sistema eleitoral de lista aberta. &lt;strong&gt;Anais do 41º Encontro Anual da Anpocs&lt;/strong&gt;, Caxambu, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Apesar dos incentivos personalistas proporcionados pelo sistema eleitoral de lista aberta no
+Brasil, a literatura vem apontando para a existência de um papel estratégico e coordenador dos partidos
+nessas eleições. Este trabalho busca explorar a relação entre a distribuição espacial de votos, em
+eleições para o cargo de vereador em grandes municípios brasileiros (no caso, Belo Horizonte, Rio de
+Janeiro e São Paulo, em 2008/2012/2016), e estratégias partidárias na arena eleitoral. Para tanto, são
+analisados três aspectos: o número de candidatos lançados por cada partido; os padrões individuais de
+distribuição espacial de votos dos candidatos competitivos; e a sobreposição de candidatos das listas
+partidárias em um mesmo território da cidade. Esta exploração inicial revelou indícios frágeis de
+comportamento estratégico dos partidos nessa disputa: o número de candidatos das listas varia de forma
+considerável entre eleições, e na maioria das vezes em que é possível atribuir um território a determinado
+candidato, ele é o único da lista partidária com tal atributo. Porém, de maneira geral, as listas de
+candidatos são extensas e os candidatos competitivos têm padrão de votação disperso-compartilhado, o que
+sugere que sua votação não é circunscrita a poucas regiões da cidade e que ele disputa diretamente esses
+votos com outros candidatos (intra ou extra lista).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

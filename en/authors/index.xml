@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Lucas Gelape</title>
+    <link>/en/authors/</link>
+      <atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/en/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/en/authors/admin/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/authors/admin/</guid>
+      <description>&lt;p&gt;PhD Candidate, Political Science, University of São Paulo. Visiting fellow at Harvard University (09/2019 to 02/2020). MA in Political Science (2017) and Bachelor of Laws (2014), Federal University of Minas Gerais. Researcher at the Research Center for Comparative and International Studies (NECI-USP), and an affiliate to the &lt;a href=&#34;https://nepolufjf.wordpress.com/&#34; target=&#34;_blank&#34;&gt;Study Group on Local Politics (NEPOL-UFJF)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I contribute to &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;https://lgelape.github.io/blog/voltdatalab/&#34; target=&#34;_blank&#34;&gt;projects&lt;/a&gt; as a data analyst. Worked as a data scientist on &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34;&gt;G1&lt;/a&gt; between July and November, 2018, where I produced &lt;a href=&#34;(https://lgelape.github.io/blog/materias_g1/)&#34; target=&#34;_blank&#34;&gt;news about the Brazilian general elections&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my website, you can access my &lt;a href=&#34;https://lgelape.github.io/pesquisa/&#34; target=&#34;_blank&#34;&gt;academic research&lt;/a&gt;, find information on &lt;a href=&#34;https://lgelape.github.io/cursos/&#34; target=&#34;_blank&#34;&gt;courses taught and on teaching assistant positions&lt;/a&gt;, &lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;developed softwares&lt;/a&gt;, and a &lt;a href=&#34;https://lgelape.github.io/blog/&#34; target=&#34;_blank&#34;&gt;blog about other works I have been involved with&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fabiana de Menezes Soares</title>
+      <link>/en/authors/fabiana-de-menezes-soares/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/en/authors/fabiana-de-menezes-soares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amanda Cristina Viana</title>
+      <link>/en/authors/amanda-cristina-viana/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/en/authors/amanda-cristina-viana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodolfo Viana Pereira</title>
+      <link>/en/authors/rodolfo-viana-pereira/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/en/authors/rodolfo-viana-pereira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thiago Álvares Feital</title>
+      <link>/en/authors/thiago-alvares-feital/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/en/authors/thiago-alvares-feital/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
