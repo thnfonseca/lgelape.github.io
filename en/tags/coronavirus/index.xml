@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coronavirus | Lucas Gelape</title>
+    <link>/en/tags/coronavirus/</link>
+      <atom:link href="/en/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coronavirus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Coronavirus</title>
+      <link>/en/tags/coronavirus/</link>
+    </image>
+    
+    <item>
+      <title>Projects - Volt Data Lab</title>
+      <link>/en/blog/voltdatalab/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt;, I participated in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34;&gt;Science Pulse&lt;/a&gt;: online tool to connect journalists to scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;R Packages&lt;/a&gt;: two packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/blob/master/vignettes/Introduction_pollingBR.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360; and &lt;a href=&#34;https://github.com/sergiospagnuolo/crossfire/blob/master/Introduction_crossfire.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, that gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analysed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34;&gt;Pocket Casts&lt;/a&gt;. Data was collected in July and August, 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34;&gt;Terra de Resistentes&lt;/a&gt;: collaborative project which investigates threats to environmental leaders and their communities in seven countries on Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hidrography, mining and rural lands.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>São Paulo: subnational alignment and challenges from Covid-19 in the country`s largest city</title>
+      <link>/en/blog/sp_covid19/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/sp_covid19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34;&gt;How did the city of São Paulo responded to the first weeks&amp;rsquo; challenges of the new coronavirus pandemic?&lt;/a&gt;.
+In this blog post, I described the first measures taken by mayor Bruno Covas (PSDB) and his relationship with governor João Doria (PSDB). I also discussed the main health, social care and urban transportation policies during this period. To conclude, I pointed out some of the challenges the city was poised to face: how to maintain isolation policies, reach vulnerable populations, increase testing and hospital capacities and planning the economy reopening.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34;&gt;This post was published on April 7th, 2020, in Portuguese (original title &amp;ldquo;São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país&amp;rdquo;)&lt;/a&gt; in the blog series &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Municipal governments facing the coronavirus&amp;rdquo;&lt;/a&gt; from the Study Group on Local Politics (NEPOL), Federal University of Juiz de Fora.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unlike other world leaders, Bolsonaro`s evaluation does not change during the pandemic</title>
+      <link>/en/blog/bolsonaro_aprovacao/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/bolsonaro_aprovacao/</guid>
+      <description>&lt;p&gt;How did Jair Bolsonaro&amp;rsquo;s evaluation was compared to other world leaders on the first weeks of the new coronavirus pandemic? &lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34;&gt;By comparing surveys about the Brazilian president approval rating with others from seven world leaders&lt;/a&gt;, I found that, unlike the others, Bolsonaro was the only who did not get a bump on his approval ratings in the period. I analyzed the result from the perspective of the &lt;em&gt;rally-round-the-flag-effect&lt;/em&gt; which can explain political leaders&amp;rsquo; sudden increase in approval during hard times.&lt;/p&gt;
+
+&lt;p&gt;Analysis published in portuguese on &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;., on April 1st, 2020. Original title: &lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit#gid=0&#34; target=&#34;_blank&#34;&gt;Data&lt;/a&gt; and &lt;a href=&#34;https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; are available on the hyperlinks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

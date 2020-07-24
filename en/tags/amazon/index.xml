@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon | Lucas Gelape</title>
+    <link>/en/tags/amazon/</link>
+      <atom:link href="/en/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amazon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Amazon</title>
+      <link>/en/tags/amazon/</link>
+    </image>
+    
+    <item>
+      <title>Projects - Volt Data Lab</title>
+      <link>/en/blog/voltdatalab/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt;, I participated in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34;&gt;Science Pulse&lt;/a&gt;: online tool to connect journalists to scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;R Packages&lt;/a&gt;: two packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/blob/master/vignettes/Introduction_pollingBR.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360; and &lt;a href=&#34;https://github.com/sergiospagnuolo/crossfire/blob/master/Introduction_crossfire.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, that gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analysed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34;&gt;Pocket Casts&lt;/a&gt;. Data was collected in July and August, 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34;&gt;Terra de Resistentes&lt;/a&gt;: collaborative project which investigates threats to environmental leaders and their communities in seven countries on Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hidrography, mining and rural lands.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Executive approval | Lucas Gelape</title>
+    <link>/en/tags/executive-approval/</link>
+      <atom:link href="/en/tags/executive-approval/index.xml" rel="self" type="application/rss+xml" />
+    <description>Executive approval</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Executive approval</title>
+      <link>/en/tags/executive-approval/</link>
+    </image>
+    
+    <item>
+      <title>Unlike other world leaders, Bolsonaro`s evaluation does not change during the pandemic</title>
+      <link>/en/blog/bolsonaro_aprovacao/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/bolsonaro_aprovacao/</guid>
+      <description>&lt;p&gt;How did Jair Bolsonaro&amp;rsquo;s evaluation was compared to other world leaders on the first weeks of the new coronavirus pandemic? &lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34;&gt;By comparing surveys about the Brazilian president approval rating with others from seven world leaders&lt;/a&gt;, I found that, unlike the others, Bolsonaro was the only who did not get a bump on his approval ratings in the period. I analyzed the result from the perspective of the &lt;em&gt;rally-round-the-flag-effect&lt;/em&gt; which can explain political leaders&amp;rsquo; sudden increase in approval during hard times.&lt;/p&gt;
+
+&lt;p&gt;Analysis published in portuguese on &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;., on April 1st, 2020. Original title: &lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit#gid=0&#34; target=&#34;_blank&#34;&gt;Data&lt;/a&gt; and &lt;a href=&#34;https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; are available on the hyperlinks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

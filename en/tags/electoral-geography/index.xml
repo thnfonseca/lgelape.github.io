@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electoral Geography | Lucas Gelape</title>
+    <link>/en/tags/electoral-geography/</link>
+      <atom:link href="/en/tags/electoral-geography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Electoral Geography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019</copyright><lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Electoral Geography</title>
+      <link>/en/tags/electoral-geography/</link>
+    </image>
+    
+    <item>
+      <title>Territorial Representation and Marielle Franco</title>
+      <link>/en/blog/marielle_franco/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/en/blog/marielle_franco/</guid>
+      <description>&lt;p&gt;In March 2018, after a news website published a short note Marielle Franco&amp;rsquo;s number of votes at the Maré neighborhood, I published an analysis on &lt;em&gt;Medium&lt;/em&gt; called &lt;a href=&#34;https://medium.com/@lgelape/representa%C3%A7%C3%A3o-territorial-e-marielle-franco-b1884061bf1c&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Territorial Representation and Marielle Franco&lt;/em&gt;&lt;/a&gt; (in portuguese), which showed how her votes were distributed across the city of Rio de Janeiro que investigava a distribuição dos votos dela na cidade do Rio de Janeiro.&lt;/p&gt;
+
+&lt;p&gt;In the text I discuss some precautions and data issues for spatial analysis of Brazilian election, and I also present some ideas on &amp;ldquo;territorial representation&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Code used in the analysis is available &lt;a href=&#34;https://github.com/lgelape/texto_mariellefranco&#34; target=&#34;_blank&#34;&gt;in a repo on my GitHub profile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Journalism | Lucas Gelape</title>
+    <link>/en/tags/data-journalism/</link>
+      <atom:link href="/en/tags/data-journalism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Journalism</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Data Journalism</title>
+      <link>/en/tags/data-journalism/</link>
+    </image>
+    
+    <item>
+      <title>Projects - Volt Data Lab</title>
+      <link>/en/blog/voltdatalab/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt;, I participated in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34;&gt;Science Pulse&lt;/a&gt;: online tool to connect journalists to scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;R Packages&lt;/a&gt;: two packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/blob/master/vignettes/Introduction_pollingBR.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360; and &lt;a href=&#34;https://github.com/sergiospagnuolo/crossfire/blob/master/Introduction_crossfire.md&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, that gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analysed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34;&gt;Pocket Casts&lt;/a&gt;. Data was collected in July and August, 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34;&gt;Terra de Resistentes&lt;/a&gt;: collaborative project which investigates threats to environmental leaders and their communities in seven countries on Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hidrography, mining and rural lands.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News stories on G1</title>
+      <link>/en/blog/materias_g1/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/en/blog/materias_g1/</guid>
+      <description>&lt;p&gt;From July to November, 2018, I worked on the news website &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34;&gt;G1&lt;/a&gt;, when I wrote stories on politics, especially about the Brazilian general elections. In this post, I gather the links for all the stories I produced (or co-produced). Most of them were published in the &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Election in Numbers&amp;rdquo; (&lt;em&gt;Eleição em Números&lt;/em&gt;)&lt;/a&gt; section, and were about many topics, including campaign and party finance, female candidates quotas, reelection, polls, candidate and electorate profile and electoral results.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34;&gt;In &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the cities, parties have not declared the 2017 expenses&lt;/a&gt;. Original: Em &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; das cidades do país, partidos não declaram despesas de 2017. 29 jul. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34;&gt;Polling place results show &amp;ldquo;straight ballot&amp;rdquo; votes in most runoff elections&lt;/a&gt;. Original: Resultados da votações por urna mostram dobradinha na maioria dos estados no 2º turno. 07 nov. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/16/quase-3-em-cada-4-deputados-estaduais-e-federais-da-ultima-legislatura-buscam-novo-mandato.ghtml&#34; target=&#34;_blank&#34;&gt;Almost 3 in 4 state and federal deputies are running for reelection&lt;/a&gt;. Original: Quase 3 em cada 4 deputados estaduais e federais da última legislatura buscam novo mandato. 16 set. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/24/mesmo-com-lei-proporcao-de-mulheres-nao-aumenta-nas-eleicoes-e-justica-precisa-notificar-coligacoes-para-que-cumpram-cota.ghtml&#34; target=&#34;_blank&#34;&gt;Even with new law, proportion of women does not increase in Election and the Court needs to notify parties to fulfill gender quotas.&lt;/a&gt;. Original: Mesmo com lei, proporção de mulheres não aumenta nas eleições e Justiça precisa notificar coligações para que cumpram cota. 24 ago. 2018 (with Clara Velasco, Gabriela Sarmento and Lucas Vidigal)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34;&gt;Number of police and military officers elected for legislative position is four times larger than in 2014&lt;/a&gt;. Original: Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014. 08 out. 2018. (with Gabriela Caesar and Ana Carolina Moreno)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/31/mais-de-300-cidades-do-pais-tem-mais-eleitores-que-habitantes.ghtml&#34; target=&#34;_blank&#34;&gt;Over 300 cities in the country have more registered voters than inhabitants&lt;/a&gt;. Original: Mais de 300 cidades do país têm mais eleitores que habitantes. 31 ago. 2018. (with Clara Velasco)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/10/gastos-de-campanha-no-1o-turno-das-eleicoes-caem-pela-metade-em-comparacao-a-2014.ghtml&#34; target=&#34;_blank&#34;&gt;Campaing expenses on the first round of elections dropped from half the amount of 2014&lt;/a&gt;. Original: Gastos de campanha no 1º turno das eleições caem pela metade em comparação a 2014. 10 nov. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/02/cidades-de-mg-quase-repetem-resultado-da-eleicao-para-presidente-em-ambos-os-turnos.ghtml&#34; target=&#34;_blank&#34;&gt;Cities from MG almost repeat the national share of votes in both rounds of the 2018 elections&lt;/a&gt;. Original: Cidades de MG quase repetem resultado da eleição para presidente em ambos os turnos. 02 nov. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/haddad-vira-em-1-estado-e-em-116-cidades-bolsonaro-fatura-25-municipios-vencidos-pelo-pt-no-1o-turno.ghtml&#34; target=&#34;_blank&#34;&gt;Haddad registers comebacks in 1 state and 117 cities; Bolsonaro wins in 25 cities where the PT had a majority of votes in the first round&lt;/a&gt;. Original: Haddad vira em 1 estado e 117 cidades; Bolsonaro fatura 25 municípios vencidos pelo PT no 1º turno. 29 out. 2018. (with Clara Velasco)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/20-governadores-tentaram-reeleicao-em-2018-10-conseguiram.ghtml&#34; target=&#34;_blank&#34;&gt;20 governors attempted reelection in 2018. Only 10 were successful.&lt;/a&gt;. Original: 20 governadores tentaram a reeleição em 2018; 10 conseguiram. 29 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/19/metade-dos-deputados-estaduais-e-distritais-eleitos-em-2014-conquista-novo-mandato-em-2018.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Metade dos deputados estaduais e distritais eleitos em 2014 conquista novo mandato em 2018&lt;/a&gt;. Original: Metade dos deputados estaduais e distritais eleitos em 2014 conquista novo mandato em 2018. 19 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/diferenca-entre-candidatos-na-1a-pesquisa-de-2o-turno-e-a-maior-desde-2002-segundo-datafolha.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Diferença entre candidatos na 1ª pesquisa de segundo turno é a maior desde 2002, segundo Datafolha&lt;/a&gt;. Original: Diferença entre candidatos na 1ª pesquisa de segundo turno é a maior desde 2002, segundo Datafolha. 11 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/cai-o-numero-de-deputados-eleitos-que-usam-titulo-religioso-no-nome-de-urna-ou-se-declaram-como-membro-de-ordem-religiosa.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Cai o número de deputados eleitos que usam título religioso no nome de urna ou se declaram como membro de ordem religiosa&lt;/a&gt;. Original: Cai o número de deputados eleitos que usam título religioso no nome de urna ou se declaram como membro de ordem religiosa 11 out. 2018. (with Thiago Lavado)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/09/apenas-4-dos-candidatos-eleitos-para-cargos-de-senador-e-deputado-estadual-e-federal-sao-pretos.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Apenas 4% dos candidatos eleitos para cargo de senador e deputado estadual e federal são pretos&lt;/a&gt;. Original: Apenas 4% dos candidatos eleitos para cargo de senador e deputado estadual e federal são pretos. 09 out. 2018. (with Carolina Dantas)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/menos-da-metade-dos-deputados-federais-eleitos-em-2014-consegue-se-reeleger-nestas-eleicoes.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Menos da metade dos deputados federais eleitos em 2014 consegue se reeleger nestas eleições&lt;/a&gt;. Original: Menos da metade dos deputados federais eleitos em 2014 consegue se reeleger nestas eleições. 08 out. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/02/percentual-de-mulheres-que-nao-escolheram-um-presidenciavel-a-10-dias-das-eleicoes-e-o-maior-desde-1998-segundo-datafolha.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Percentual de mulheres que não escolheram um presidenciável a 10 dias das eleições é o maior desde 1998, segundo Datafolha&lt;/a&gt;. Original: Percentual de mulheres que não escolheram um presidenciável a 10 dias das eleições é o maior desde 1998, segundo Datafolha. 02 out. 2018. (with Rafael Miotto)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/30/primeira-parcial-indica-queda-de-36-nos-gastos-de-campanha-em-2018.ghtml&#34; target=&#34;_blank&#34;&gt;Original: Primeira parcial indica queda de 36% nos gastos de campanha em 2018&lt;/a&gt;. Original: Primeira parcial indica queda de 36% nos gastos de campanha em 2018. 30 set. 2018. (with Cauê Muraro and Leandro Oliveira)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/11/saude-e-violencia-sao-os-principais-problemas-para-os-eleitores-brasileiros-segundo-datafolha.ghtml&#34; target=&#34;_blank&#34;&gt;Health and violence are the two main problems to brazilian voters, according to Datafolha poll&lt;/a&gt;. Original: Saúde e violência são os principais problemas para os eleitores brasileiros, segundo Datafolha. 11 set. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/27/pesquisas-ibope-rj-e-am-tem-mais-eleitores-que-se-dizem-insatisfeitos-ou-muito-insatisfeitos-com-a-vida-atual.ghtml&#34; target=&#34;_blank&#34;&gt;Ibope polls: RJ and AM have the most voters who says they are unsatisfied or very unsatisfied with their current life.&lt;/a&gt;. Original: Pesquisas Ibope: RJ e AM têm mais eleitores que se dizem &amp;lsquo;insatisfeitos&amp;rsquo; ou &amp;lsquo;muito insatisfeitos&amp;rsquo; com a vida atual. 27 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/27/pesquisas-ibope-lula-atinge-pelo-menos-50-em-todos-os-estados-do-nordeste-e-bolsonaro-e-mais-forte-em-rr-ac-e-df.ghtml&#34; target=&#34;_blank&#34;&gt;Ibope polls: Lula reaches at least 50% in all Northeastern states and Bolsonaro is the strongest in RR, AC and DF.&lt;/a&gt;. Original: Pesquisas Ibope: Lula atinge pelo menos 50% em todos os estados do Nordeste e Bolsonaro é mais forte em RR, AC e DF. 27 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/26/saude-e-o-problema-mais-citado-pelos-eleitores-nos-estados-do-pais-apontam-pesquisas-ibope.ghtml&#34; target=&#34;_blank&#34;&gt;Health is the problem most cited by voters over the country, according to Ibope polls.&lt;/a&gt;. Original: Saúde é o problema mais citado pelos eleitores nos estados do país, apontam pesquisas Ibope. 26 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/20/mais-de-500-candidatos-usam-titulos-religiosos-no-nome-de-urna.ghtml&#34; target=&#34;_blank&#34;&gt;Over 500 candidates use religious titles in their polling registries.&lt;/a&gt;. Original: Mais de 500 candidatos usam títulos religiosos no nome de urna. 20 ago. 2018. (with Rafaela Putini)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/17/aumentam-pedidos-de-candidaturas-de-policiais-e-militares-ativos-e-inativos.ghtml&#34; target=&#34;_blank&#34;&gt;Higher numbers of candidate registries from current and retired military were found in 2018&lt;/a&gt;. Original: Aumentam pedidos de candidaturas de militares ativos e inativos. 17 ago. 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/15/proporcao-de-eleitores-com-voto-facultativo-nas-eleicoes-e-a-mais-baixa-das-ultimas-eleicoes.ghtml&#34; target=&#34;_blank&#34;&gt;Proportion of voters that are not required to vote is the lowest in the last election.&lt;/a&gt;. Original: Proporção de eleitores com voto facultativo é a mais baixa das últimas eleições. 15 ago. 2018. (com Clara Velasco e Leandro Oliveira)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
