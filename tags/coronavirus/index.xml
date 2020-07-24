@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coronavirus | Lucas Gelape</title>
+    <link>/tags/coronavirus/</link>
+      <atom:link href="/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coronavirus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Coronavirus</title>
+      <link>/tags/coronavirus/</link>
+    </image>
+    
+    <item>
+      <title>Projetos - Volt Data Lab</title>
+      <link>/blog/voltdatalab/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;Como analista de dados no &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt;, participei de alguns projetos que envolveram coleta, análise e visualização de dados de diversas fontes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34;&gt;Science Pulse&lt;/a&gt;: ferramenta online para conectar jornalistas à conversa científica nas redes sociais, por meio da disponibilização de postagens de uma lista de fontes (instituições científicas, pesquisadores, cientistas e afins) que se engajam nas redes (especialmente no Twitter). Este projeto envolveu programação em R em servidores remotos e desenvolvimento de aplicativo em Shiny.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;Pacotes em R&lt;/a&gt;: desenvolvi dois pacotes que permitem extrair dados em duas APIs produzidas pelo Volt Data Lab: o &lt;code&gt;pollingBR&lt;/code&gt;, com dados de pesquisas eleitorais compiladas pelo Poder360; e o &lt;code&gt;crossfire&lt;/code&gt;, com dados de tiroteios nas regiões metropolitanas do Rio de Janeiro e Recife produzidos pelo Fogo Cruzado.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34;&gt;Estatísticas e dados do segmento de podcasts no Brasil em 2019&lt;/a&gt;: neste relatório, eu e Sérgio Spagnuolo analisamos informações sobre podcasts brasileiros e internacionais hospedados na plataforma &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34;&gt;Pocket Casts&lt;/a&gt;, coletadas por meio de raspagem de dados em julho e agosto de 2019. O &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34;&gt;código para coleta e análise pode ser consultado no GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/pt/&#34; target=&#34;_blank&#34;&gt;Terra de Resistentes&lt;/a&gt;: projeto colaborativo que investigou ameaças a líderes ambientais e suas comunidades em sete países da América Latina. Contribuí com a análise e visualização de dados sobre &lt;a href=&#34;https://tierraderesistentes.com/pt/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34;&gt;ameaças à comunidades indígenas em Rondônia&lt;/a&gt;. Esta matéria envolveu análise de dados de terras indígenas, desmatamento, estradas ilegais, hidrografia, processos de mineração e imóveis rurais.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país</title>
+      <link>/blog/sp_covid19/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/sp_covid19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34;&gt;Como a cidade de São Paulo respondeu aos desafios das primeiras semanas da pandemia do novo coronavírus?&lt;/a&gt;. Neste texto, apresentei as primeiras medidas tomadas pelo prefeito Bruno Covas (PSDB) e sua relação com o governador João Doria (PSDB). Também discuti as principais políticas de saúde, assistência social e mobilidade urbana e problemas relacionados a elas nesse período. Por fim, enumerei alguns desafios que a cidade enfrentaria: a manutenção de medidas de isolamento, alcançar populações vulneráveis, aumentar a capacidade de testagem e tratamento e planejar a retomada de atividades econômicas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34;&gt;Análise publicada em 07 de abril de 2020&lt;/a&gt; na &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34;&gt;série &amp;ldquo;Os governos municipais frente ao coronavírus&amp;rdquo;&lt;/a&gt; do Núcleo de Estudos sobre Política Local (NEPOL-UFJF).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia</title>
+      <link>/blog/bolsonaro_aprovacao/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/bolsonaro_aprovacao/</guid>
+      <description>&lt;p&gt;Como a avaliação de Jair Bolsonaro se comparou a outros líderes mundiais nas primeiras semanas da pandemia do novo coronavírus? &lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34;&gt;Comparando a avaliação do presidente brasileiro com a de líderes em outros sete países&lt;/a&gt;, verifiquei que, ao contrário dos demais, Bolsonaro foi o único cuja aprovação não subiu nestas semanas iniciais. Este resultado foi discutido a partir da teoria do &lt;em&gt;rally-round-the-flag-effect&lt;/em&gt; (efeito de união nacional, em tradução livre) que explica o súbito aumento da popularidade de líderes políticos em momentos de crises nacionais.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34;&gt;Análise publicada em 01 de abril de 2020&lt;/a&gt; no site &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Núcleo Jornalismo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit#gid=0&#34; target=&#34;_blank&#34;&gt;Dados&lt;/a&gt; e &lt;a href=&#34;https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9&#34; target=&#34;_blank&#34;&gt;códigos&lt;/a&gt; desta análise estão abertos para acesso.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
