@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PSOL | Lucas Gelape</title>
+    <link>/tags/psol/</link>
+      <atom:link href="/tags/psol/index.xml" rel="self" type="application/rss+xml" />
+    <description>PSOL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><copyright>© 2019</copyright><lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>PSOL</title>
+      <link>/tags/psol/</link>
+    </image>
+    
+    <item>
+      <title>Representação Territorial e Marielle Franco</title>
+      <link>/blog/marielle_franco/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/marielle_franco/</guid>
+      <description>&lt;p&gt;Em março de 2018, após uma notícia sobre o número de votos da vereadora Marielle Franco (PSOL) na Maré, publiquei um texto no &lt;em&gt;Medium&lt;/em&gt; intitulado &lt;a href=&#34;https://medium.com/@lgelape/representa%C3%A7%C3%A3o-territorial-e-marielle-franco-b1884061bf1c&#34; target=&#34;_blank&#34;&gt;Representação Territorial e Marielle Franco&lt;/a&gt; que investigava a distribuição dos votos dela na cidade do Rio de Janeiro.&lt;/p&gt;
+
+&lt;p&gt;No texto, discuto alguns cuidados e problemas de dados de distribuição geográfica de votos e faço uma pequena discussão sobre essa ideia de &amp;ldquo;representação territorial&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;O código para a análise feita no texto está num &lt;a href=&#34;https://github.com/lgelape/texto_mariellefranco&#34; target=&#34;_blank&#34;&gt;repositório do Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volt Data Lab | Lucas Gelape</title>
+    <link>/tags/volt-data-lab/</link>
+      <atom:link href="/tags/volt-data-lab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volt Data Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Volt Data Lab</title>
+      <link>/tags/volt-data-lab/</link>
+    </image>
+    
+    <item>
+      <title>Projetos - Volt Data Lab</title>
+      <link>/blog/voltdatalab/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;Como analista de dados no &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt;, participei de alguns projetos que envolveram coleta, análise e visualização de dados de diversas fontes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34;&gt;Science Pulse&lt;/a&gt;: ferramenta online para conectar jornalistas à conversa científica nas redes sociais, por meio da disponibilização de postagens de uma lista de fontes (instituições científicas, pesquisadores, cientistas e afins) que se engajam nas redes (especialmente no Twitter). Este projeto envolveu programação em R em servidores remotos e desenvolvimento de aplicativo em Shiny.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;Pacotes em R&lt;/a&gt;: desenvolvi dois pacotes que permitem extrair dados em duas APIs produzidas pelo Volt Data Lab: o &lt;code&gt;pollingBR&lt;/code&gt;, com dados de pesquisas eleitorais compiladas pelo Poder360; e o &lt;code&gt;crossfire&lt;/code&gt;, com dados de tiroteios nas regiões metropolitanas do Rio de Janeiro e Recife produzidos pelo Fogo Cruzado.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34;&gt;Estatísticas e dados do segmento de podcasts no Brasil em 2019&lt;/a&gt;: neste relatório, eu e Sérgio Spagnuolo analisamos informações sobre podcasts brasileiros e internacionais hospedados na plataforma &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34;&gt;Pocket Casts&lt;/a&gt;, coletadas por meio de raspagem de dados em julho e agosto de 2019. O &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34;&gt;código para coleta e análise pode ser consultado no GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/pt/&#34; target=&#34;_blank&#34;&gt;Terra de Resistentes&lt;/a&gt;: projeto colaborativo que investigou ameaças a líderes ambientais e suas comunidades em sete países da América Latina. Contribuí com a análise e visualização de dados sobre &lt;a href=&#34;https://tierraderesistentes.com/pt/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34;&gt;ameaças à comunidades indígenas em Rondônia&lt;/a&gt;. Esta matéria envolveu análise de dados de terras indígenas, desmatamento, estradas ilegais, hidrografia, processos de mineração e imóveis rurais.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
