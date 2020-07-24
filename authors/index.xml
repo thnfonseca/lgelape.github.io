@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Lucas Gelape</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Aluno de doutorado em Ciência Política da USP (desde 2017). Pesquisador visitante (doutorado sanduíche) na Universidade Harvard (09/2019 a 02/2020). Mestre em Ciência Política (2017) e bacharel em Direito (2014) pela UFMG. Sou também pesquisador do Núcleo de Estudos Comparados Internacionais (NECI - USP), e pesquisador-colaborador do &lt;a href=&#34;https://nepolufjf.wordpress.com/&#34; target=&#34;_blank&#34;&gt;Núcleo de Estudos sobre Política Local (NEPOL-UFJF)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Contribuo em &lt;a href=&#34;https://lgelape.github.io/blog/voltdatalab/&#34; target=&#34;_blank&#34;&gt;projetos&lt;/a&gt; do &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34;&gt;Volt Data Lab&lt;/a&gt; como analista de dados. Fui cientista de dados no &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34;&gt;G1&lt;/a&gt; entre julho e novembro de 2018, onde &lt;a href=&#34;https://lgelape.github.io/blog/materias_g1/&#34; target=&#34;_blank&#34;&gt;produzi matérias durante as eleições&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nesta página, é possível acessar meus &lt;a href=&#34;https://lgelape.github.io/pesquisa/&#34; target=&#34;_blank&#34;&gt;trabalhos acadêmicos&lt;/a&gt;, informações sobre &lt;a href=&#34;https://lgelape.github.io/cursos/&#34; target=&#34;_blank&#34;&gt;cursos que lecionei ou participei como monitor/estagiário docente&lt;/a&gt;, &lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34;&gt;softwares&lt;/a&gt; (como pacotes em R), e posts do &lt;a href=&#34;https://lgelape.github.io/blog/&#34; target=&#34;_blank&#34;&gt;blog onde divulgo outros trabalhos&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fabiana de Menezes Soares</title>
+      <link>/authors/fabiana-de-menezes-soares/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/fabiana-de-menezes-soares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amanda Cristina Viana</title>
+      <link>/authors/amanda-cristina-viana/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/amanda-cristina-viana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodolfo Viana Pereira</title>
+      <link>/authors/rodolfo-viana-pereira/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/rodolfo-viana-pereira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thiago Álvares Feital</title>
+      <link>/authors/thiago-alvares-feital/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/thiago-alvares-feital/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
