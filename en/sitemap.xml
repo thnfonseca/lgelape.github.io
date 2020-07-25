@@ -888,6 +888,21 @@
   </url>
   
   <url>
+    <loc>/en/blog/direito_ufmg/</loc>
+    <lastmod>2015-01-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/direito_ufmg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/direito_ufmg/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/publication_types/1/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1029,6 +1044,16 @@
   
   <url>
     <loc>/en/courses/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/courses/"
+                />
   </url>
   
   <url>
@@ -1063,6 +1088,16 @@
   
   <url>
     <loc>/en/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/research/"
+                />
   </url>
   
   <url>
