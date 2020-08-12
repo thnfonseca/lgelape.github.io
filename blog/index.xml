@@ -5,12 +5,31 @@
     <link>/blog/</link>
       <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><copyright>© 2019</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><copyright>© 2019</copyright><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Blog</title>
       <link>/blog/</link>
     </image>
+    
+    <item>
+      <title>Geografia das Eleições</title>
+      <link>/blog/geografia_eleicoes/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/geografia_eleicoes/</guid>
+      <description>&lt;p&gt;Participei em uma live sobre geografia eleitoral, na série de vídeos &lt;a href=&#34;https://www.youtube.com/playlist?list=PLnOtuNzPX7Jf9rpfvzIHa6ZlQLnnXKpz2&#34; target=&#34;_blank&#34;&gt;We R Live&lt;/a&gt; (sobre análise espacial com R) do canal &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34;&gt;Geocast&lt;/a&gt;. Na minha apresentação, falei sobre como a Ciência Política utiliza aspectos geográficos para estudar eleições, especialmente no Brasil. Além disso, também discuti os pontos fortes e fracos do uso do R para essas análises.&lt;/p&gt;
+
+&lt;p&gt;Os slides da minha apresentação estão disponíveis &lt;a href=&#34;files/geografia_eleitoral_slides.pdf&#34; target=&#34;_blank&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para os interessados em aprender mais sobre como usar o R para análises espaciais, a série do Geocast é uma excelente pedida. Nos últimos anos, havia um déficit de material didático sobre o assunto, especialmente em português. Desde a maior popularização do &lt;code&gt;sf&lt;/code&gt;, isso vem mudando e esses vídeos são um ótimo exemplo deste movimento.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/KN4kkvKkb_w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Projetos - Volt Data Lab</title>
